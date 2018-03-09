@@ -1,4 +1,4 @@
-# Materials Science Courses Code
+# Materials Science Collection
 Collection for the code of Materials Science courses.
 
 ## MATS 201A --- Thermodynamics of Solids
