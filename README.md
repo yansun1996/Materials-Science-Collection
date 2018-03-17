@@ -6,4 +6,4 @@ VerifyTangentPoint.ipynb : For the CALPHAD Final project in MATS 201A - Thermody
 
 ## MATS 201B --- Solid State Diffusion and Reaction Kinetics
 
-HW 1~4 : Code for different homework assignments.
+HW 1~5 : Code for different homework assignments.
